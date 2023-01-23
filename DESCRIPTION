@@ -1,4 +1,4 @@
-Package: bayesfam
+Package: bayesfam_simulations
 Type: Package
 Title: brms Custom Families
 Version: 0.2.2
@@ -25,7 +25,9 @@ RoxygenNote: 7.2.1
 NeedsCompilation: no
 URL: https://github.com/sims1253/bayesfam
 BugReports: https://github.com/sims1253/bayesfam/issues
-Description: A collection of custom brms families and some additional functions
+Description: Fork of bayesfam with sim code for continuous unbound distribution 
+    research. Bayesfam is a 
+    BA collection of custom brms families and some additional functions
     for existing families originally developed as part of the bayesim package.
     References: Scholz (2022) <doi:10.5281/zenodo.7099513>;
     Scholz (2022) <doi:10.48550/ARXIV.2210.06927>.
